@@ -1,0 +1,48 @@
+VERIFY_TOKEN = "TAGVALUE"
+WHATSAPP_TOKEN = "EAAFOznNgHNMBO71ZBhf4C4ZAAwZCMWfedKcBACOu8ZA79bwKGB1e0fmavs5JeOABNGeeUNa5mMgpZAWn07iGcoD6HkoGOTi1ILy8d5SUtUTxsQDxgNiX3rrAkLvtngbdHfRmGtrCu5f98tvTv95ZBC7RZBCjabHOBRS4ZA2nyK424OGcfXvNmfj70QUHDQP7vPd1h2opKaGmPXRhCGxH"
+BASE_URL = "https://graph.facebook.com/v17.0/"
+PAGE_ID = "243259005527427"
+voltar = [
+    "voltar",
+    "Voltar",
+    "VOLTAR",
+]
+saudacoes_portugues = [
+    "olá",
+    "Ola!",
+    "Olá!",
+    "Oi",
+    "E aí?",
+    "Oi, tudo bem?",
+    "Bom dia",
+    "Boa tarde",
+    "Boa noite",
+    "Oi, como vai?",
+    "E aí, beleza?",
+    "Oi, amigo(a)!",
+    "Oi, camarada!",
+    "Oi, parceiro(a)!",
+    "E aí, meu chapa?",
+    "Tudo tranquilo?",
+    "Tudo joia?",
+    "Como você está?",
+    "E aí, meu/minha querido(a)?",
+    "Oi, meu/minha chapa!",
+    "eae",
+    "oi",
+    "opa",
+    "a",
+    "A",
+    "salve",
+    "Bom, Dia!",
+    "Bom, Dia",
+    "Bom Dia",
+    "Bom Dia!",
+    "Oi!",
+    "Ola!",
+    "Oie!",
+    "Oie",
+    "oie",
+    "oie!",
+    "*",
+]

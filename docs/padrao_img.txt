@@ -1,0 +1,3 @@
+drive.google.com/uc?export=download&id=(id da imagem)
+
+drive.google.com/uc?export=download&id=

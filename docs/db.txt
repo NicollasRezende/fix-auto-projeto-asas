@@ -1,0 +1,2 @@
+root@localhost:3306
+jdbc:mysql://localhost:3306/?user=root

@@ -1,0 +1,9 @@
+Antes de de adicionar as imagens atente-se aos seguintes requisitos:
+
+a imagem deve estar no formato:
+".jpeg"
+
+ela deve seguir o seguinte formato:
+/home/teletron/Área de Trabalho/project/bot/PROJETO/imagens-depoimentos/(imagem1, ..., imagem10)
+
+voce pode adicionar ate 10 imagens.
